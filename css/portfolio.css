@@ -1,0 +1,12 @@
+.portfolio-title {
+  color: var(--primary-text-color);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.portfolio-category {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}

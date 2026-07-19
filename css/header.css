@@ -1,0 +1,22 @@
+.nav-link {
+  color: var(--primary-text-color);
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.contacts {
+  font-style: normal;
+}
+
+.contacts-link {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.nav-link:hover,
+.nav-link:focus,
+.contacts-link:hover,
+.contacts-link:focus {
+  color: var(--active-color);
+}
