@@ -1,4 +1,14 @@
+.features-list {
+  display: flex;
+  gap: 24px;
+}
+
+.features-item {
+  width: calc((100% - 72px) / 4);
+}
+
 .features-title {
+  margin-bottom: 8px;
   color: var(--primary-text-color);
   font-size: 20px;
   font-weight: 500;
